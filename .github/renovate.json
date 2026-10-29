@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "timezone": "America/Chicago",
   "extends": ["config:base"],
   "prHourlyLimit": 0,
@@ -7,7 +7,7 @@
   "dependencyDashboard": true,
   "dependencyDashboardTitle": "Renovate Dashboard",
   "docker": {
-    "enabled": true
+    "enabled": false
   },
   "packageRules": [
     {
